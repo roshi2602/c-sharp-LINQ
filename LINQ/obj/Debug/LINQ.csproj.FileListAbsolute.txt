@@ -1,0 +1,11 @@
+C:\Users\lenovo\source\repos\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\lenovo\source\repos\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\Users\lenovo\source\repos\LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\Users\lenovo\source\repos\LINQ\LINQ\obj\Debug\LINQ.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\Users\lenovo\source\repos\LINQ\LINQ\obj\Debug\LINQ.pdb
+C:\Users\lenovo\source\repos\LINQ\LINQ\obj\Debug\LINQ.Form1.resources
+C:\Users\lenovo\source\repos\LINQ\LINQ\obj\Debug\LINQ.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\LINQ\LINQ\bin\Debug\Student.mdf
+C:\Users\lenovo\source\repos\LINQ\LINQ\bin\Debug\Student_log.ldf
